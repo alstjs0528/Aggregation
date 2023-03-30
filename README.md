@@ -3,7 +3,7 @@ Protein aggregation is the phenomenon which occurs when misfolded or unfolded pr
 
 # Contents
 * Computational approach
- *Feature-based Model
- *Graph-based Model
+ * Feature-based Model
+ * Graph-based Model
 * Experimental approach
- - Feature-based Model    
+ * Feature-based Model    
